@@ -20,5 +20,12 @@ h1{
   align-items: center;
   padding: 30px;
   border-radius: 25px;
-  font-size: 6vw;
+  font-size: 5.7vw;
+}
+
+.Main{
+  border: 2px solid black;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: 300% 100%;
 }
